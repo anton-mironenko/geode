@@ -103,8 +103,8 @@ public class HostAddress {
 
   @Override
   public String toString() {
-    return "LocatorAddress [socketInetAddress=" + socketInetAddress + ", hostname="
-        + hostname + ", isIpString=" + isIpString + "]";
+    return "LocatorAddress [socketInetAddress=" + socketInetAddress + ", hostname=" + hostname
+        + ", isIpString=" + isIpString + "]";
   }
 
 }
